@@ -1,4 +1,6 @@
-# Biblioteca para leitura de números escritos por extenso.
+# Script para leitura de números escritos por extenso.
+
+Acessa lá: https://extenso.streamlit.app
 
 Esse projeto criado em python busca criar um conversor que recebe números por extenso e retorna o número em algarismos.
 
